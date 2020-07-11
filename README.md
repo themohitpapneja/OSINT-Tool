@@ -1,8 +1,9 @@
 # Scrapper An OSINT-Tool
 Project for Gurugram Cyber Police Summer Internship 2020
 
-Run the scrapper.py in your terminal and you are good to go.
+Download ChromeDriver and keep all the files under same folder.
 
+Run the scrapper.py in your terminal and you are good to go.
 
 You would need libraries
 >selenium
